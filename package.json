@@ -85,7 +85,7 @@
     "poloniex.js": "0.0.9",
     "popper.js": "^1.14.3",
     "postcss-loader": "^3.0.0",
-    "progress": "^2.0.0",
+    "progress": "^2.0.3",
     "pushbullet": "2.3.0",
     "pusher-js": "^4.1.0",
     "quadrigacx": "0.0.7",
